@@ -1,0 +1,5 @@
+Place gallery and committee member photos in this folder.
+
+Gallery images: name them descriptively, e.g. ride-2026-04.jpg
+Committee photos: e.g. jane-doe.jpg — reference them in index.html inside .committee-avatar as:
+  <img src="../images/jane-doe.jpg" alt="Jane Doe">
